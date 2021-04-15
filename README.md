@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
-<h3 align="center">A data science enthusiast</h3>
+<h3 align="center">A budding data scientist</h3>
 
 - 🔭 I’m currently working on [SmART](https://github.com/disney-snoopy/SmArtGenerative)
 
