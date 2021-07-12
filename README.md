@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omer</h1>
-<h3 align="center">I'm a Data Science TA</h3>
+<h1 align="center">Data Scientist</h1>
 
-- 🔭 I’m currently working on [SmART](https://github.com/disney-snoopy/SmArtGenerative)
+- 🏗 Currently working at [nPlan(https://nplan.io)
 
 - 📫 How to reach me **omeraziz10@gmail.com**
 
